@@ -1,0 +1,21 @@
+{
+  "name": "meanauth",
+  "version": "1.0.0",
+  "description": "Mean Stack Auth app",
+  "main": "app.js",
+  "scripts": { 
+    "start": "node app" 
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "GHcoutuan3"
+  },
+  "keywords": [
+    "Node",
+    "Angular2",
+    "Passport",
+    "JWT"
+  ],
+  "author": "Andre Couturier",
+  "license": "ISC"
+}
